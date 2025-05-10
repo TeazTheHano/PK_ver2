@@ -1,0 +1,28 @@
+/* Typography system - Large */
+:root {
+  --display-family: var(--typeface-font-family-1);
+  --display-font-size: var(--size-display-large);
+  --display-line-height: var(--line-height-display-large);
+  --display-letter-spacing: -0.25px;
+  --headline-family: var(--typeface-font-family-1);
+  --display-weight: var(--typeface-weight-bold);
+  --headline-font-size: var(--size-headline-large);
+  --headline-line-height: var(--line-height-headline-large);
+  --headline-letter-spacing: 0px;
+  --headline-weight: var(--typeface-weight-medium);
+  --label-family: var(--typeface-font-family-2);
+  --label-font-size: var(--size-label-large);
+  --label-line-height: var(--line-height-label-large);
+  --label-letter-spacing: 0.10000000149011612px;
+  --label-weight: var(--typeface-weight-bold);
+  --title-family: var(--typeface-font-family-2);
+  --body-family: var(--typeface-font-family-2);
+  --body-font-size: var(--size-body-large);
+  --body-line-height: var(--line-height-body-large);
+  --body-letter-spacing: 0.5px;
+  --title-font-size: var(--size-title-large);
+  --body-weight: var(--typeface-weight-regular);
+  --title-line-height: var(--line-height-title-large);
+  --title-letter-spacing: 0px;
+  --title-weight: var(--typeface-weight-regular);
+}

@@ -1,0 +1,19 @@
+/* Key value - Mode 1 */
+:root {
+  --typeface-font-family-1: IBM Plex Sans;
+  --typeface-font-family-2: Roboto;
+  --typeface-weight-regular: Regular;
+  --typeface-weight-bold: Bold;
+  --typeface-weight-medium: Medium;
+  --perfect-typo-length-string: String value;
+  --perfect-typo-length-sized-paragraph-short---20-char: aaaaaaaaaaaaaaaaaaaa;
+  --perfect-typo-length-sized-paragraph-med---40-char: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;
+  --perfect-typo-length-sized-paragraph-long---60-char: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;
+  --appearance-invisible: 0px;
+  --appearance-disable: 32px;
+  --appearance-avaiable: 100px;
+  --stroke-stroke-none: 0px;
+  --stroke-stroke-1: 1px;
+  --stroke-stroke-2: 2px;
+  --stroke-stroke-3: 3px;
+}

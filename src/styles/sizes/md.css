@@ -1,0 +1,40 @@
+/* Size and spacing - MD */
+:root {
+  --page-prop-page-width: 1200px;
+  --page-prop-page-content-max-width: 1200px;
+  --page-prop-first-panel-without-left-nav: 360px;
+  --page-prop-first-panel-with-left-nav: 360px;
+  --page-prop-use-left-nav: true;
+  --page-prop-body-margin: 24px;
+  --gap-base-gap: 24px;
+  --padding-and-margin-pm-none: 0px;
+  --padding-and-margin-pm-m2: var(--gap-gap-m2);
+  --padding-and-margin-pm-m1: var(--gap-gap-m1);
+  --padding-and-margin-pm-0: var(--gap-gap-0);
+  --padding-and-margin-pm-1: var(--gap-gap-1);
+  --padding-and-margin-pm-2: var(--gap-gap-2);
+  --icon-base-icon-size: 24px;
+  --icon-base-icon-size-dense: 20px;
+  --icon-fab-icon-size: 36px;
+  --button-padding-btn-padding-h-m2: 8px;
+  --button-padding-btn-padding-h-m1: 10px;
+  --button-padding-btn-padding-h-0: 12px;
+  --button-padding-btn-padding-h-1: 16px;
+  --button-padding-btn-padding-h-2: var(--icon-base-icon-size);
+  --button-padding-btn-padding-v-0: 8px;
+  --button-padding-btn-padding-v-1: 10px;
+  --button-padding-fab-padding: 18px;
+  --gap-gap-none: 0px;
+  --gap-gap-m2: 8px;
+  --gap-gap-m1: 12px;
+  --border-radius-base-border-radius: 24px;
+  --gap-gap-0: var(--gap-base-gap);
+  --gap-gap-1: 36px;
+  --gap-gap-2: 48px;
+  --border-radius-br-none: 0px;
+  --border-radius-br-m1: 12px;
+  --border-radius-br-0: var(--border-radius-base-border-radius);
+  --border-radius-br-1: 36px;
+  --border-radius-br-2: 48px;
+  --border-radius-br-rounded: 1000px;
+}

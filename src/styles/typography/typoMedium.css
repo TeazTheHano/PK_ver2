@@ -1,0 +1,28 @@
+/* Typography system - Medium */
+:root {
+  --display-family: var(--typeface-font-family-1);
+  --display-font-size: var(--size-display-medium);
+  --display-line-height: var(--line-height-display-medium);
+  --display-letter-spacing: 0px;
+  --headline-family: var(--typeface-font-family-1);
+  --display-weight: var(--typeface-weight-medium);
+  --headline-font-size: var(--size-headline-medium);
+  --headline-line-height: var(--line-height-headline-medium);
+  --headline-letter-spacing: 0px;
+  --headline-weight: var(--typeface-weight-regular);
+  --label-family: var(--typeface-font-family-2);
+  --label-font-size: var(--size-label-medium);
+  --label-line-height: var(--line-height-label-medium);
+  --label-letter-spacing: 0.5px;
+  --label-weight: var(--typeface-weight-bold);
+  --title-family: var(--typeface-font-family-2);
+  --body-family: var(--typeface-font-family-2);
+  --body-font-size: var(--size-body-medium);
+  --body-line-height: var(--line-height-body-medium);
+  --body-letter-spacing: 0.25px;
+  --title-font-size: var(--size-title-medium);
+  --body-weight: var(--typeface-weight-regular);
+  --title-line-height: var(--line-height-title-medium);
+  --title-letter-spacing: 0.15000000596046448px;
+  --title-weight: var(--typeface-weight-medium);
+}
